@@ -1,6 +1,7 @@
 import React from 'react';
 import Footer from '../../Share/Footer/Footer';
 import About from './About';
+import Button from './Button';
 import HomeBanner from './HomeBanner';
 import Look from './Look/Look';
 import Payment from './Payment';
@@ -25,6 +26,7 @@ const Home = () => {
                 <Question></Question>
 
             </div>
+            <Button></Button>
             <Footer></Footer>
         </div>
     );
