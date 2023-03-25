@@ -9,9 +9,8 @@ import Provide from './Provide';
 import Question from './Question';
 import Stress from './Stress';
 import Support from './Support/Support';
-
-
 const Home = () => {
+
     return (
 
         <div>
@@ -24,10 +23,10 @@ const Home = () => {
                 <Payment></Payment>
                 <About></About>
                 <Question></Question>
-
             </div>
             <Button></Button>
             <Footer></Footer>
+
         </div>
     );
 };

@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Footer = () => {
+
     return (
         <div>
             <footer className="footer footer-center p-4 bg-base-100 text-[#5f6368]">
